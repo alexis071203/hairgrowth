@@ -1,0 +1,69 @@
+h1{
+font-family: 'Special Elite', cursive;
+color: #17202A;
+margin-top: 50px;
+font-size: 40px;
+text-align: center;
+}
+body{
+  background-color: #CCD1D1;
+}
+#first{
+  width: 250px;
+  margin-left: 60px;
+  margin-top: 20px;
+  padding: 5px;
+  display: inline-block;
+  border: 3px;
+  border-width: 6px;
+  border-color:  #FBFCFC;
+  border-style: dotted;
+}
+
+#fourth{
+  width: 250px;
+  margin-top: 20px;
+  margin-right: 60px;
+  margin-left: 700px;
+  padding: 5px;
+  border-width: 6px;
+  border-color:  #FBFCFC;
+  border-style: dotted;
+}
+
+h2{
+  font-family: 'Special Elite', cursive;
+  margin-left: 80px;
+  margin-top: 60px;
+  font-size: 35px;
+}
+.hair{
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 3px;
+}
+
+h3{
+  font-family: 'Special Elite', cursive;
+  margin-left: 80px;
+  margin-top: 60px;
+  font-size: 35px;
+}
+.hair2{
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 3px;
+}
+
+h4{
+  font-family: 'Special Elite', cursive;
+  margin-left: 80px;
+  margin-top: 60px;
+  font-size: 35px;
+}
+.hair3{
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 3px;
+  margin-bottom: 25px;
+}
